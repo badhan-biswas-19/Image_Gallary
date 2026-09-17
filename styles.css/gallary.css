@@ -9,14 +9,14 @@
  
  #colour {
 
-            background-color: rgb(10, 140, 144);
+            background-color: rgb(167, 233, 235);
         }
 
         
         .heading {
             justify-content: center;
             display: flex;
-            color: burlywood;
+            color: rgb(77, 63, 46);
             
         }
 
