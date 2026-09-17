@@ -1,0 +1,39 @@
+ #colour {
+
+            background-color: rgb(10, 140, 144);
+        }
+
+        
+        .heading {
+            justify-content: center;
+            display: flex;
+            color: burlywood;
+            
+        }
+
+        .image {
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 120px;
+            flex-wrap: wrap;
+            padding: 50px;
+            max-width: 1200px;
+            cursor: pointer;
+
+        }
+
+
+        .image-2 {
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 120px;
+            flex-wrap: wrap;
+            padding: 50px;
+            max-width: 1200px;
+            cursor: pointer;
+
+        }
